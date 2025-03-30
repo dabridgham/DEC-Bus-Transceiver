@@ -3,3 +3,6 @@
 Experiments in looking for a circuit that could perform the function
 of a bus transceiver for the DEC busses (Unibus and QBUS).
 
+For the moment, this is a place to jot down ideas but if it were to be
+carried through, the idea would be to build a small test board to try
+out the transceiver circuit on real busses to see that it works.
